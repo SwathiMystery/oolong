@@ -1,6 +1,15 @@
 [
 	
 		{
+		  "title"      : "Programming Style and Your Brain",
+		  "category"   : "",
+      "tags"       : "programming, brain, and codestyle",
+		  "url"        : "//swathimystery.github.io/oolong/articles/programming-style-and-your-brain/",
+		  "date"       : "2014-08-28 02:30:35 +0530",
+		  "shortdate"  : "August 28, 2014"
+		} ,
+	
+		{
 		  "title"      : "Javascript the Good Parts",
 		  "category"   : "",
       "tags"       : "javascript, good parts, and Douglas Crockford",
