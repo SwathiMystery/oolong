@@ -1,6 +1,33 @@
 [
 	
 		{
+		  "title"      : "Monads and Gonads by Douglas Crockford",
+		  "category"   : "",
+      "tags"       : "pattern, monads, gonads, haskell, javascript, and Douglas Crockford",
+		  "url"        : "//swathimystery.github.io/oolong/articles/monads-and-gonads-by-douglas-crockford/",
+		  "date"       : "2014-08-28 02:55:14 +0530",
+		  "shortdate"  : "August 28, 2014"
+		} ,
+	
+		{
+		  "title"      : "Effective Scala by Twitter",
+		  "category"   : "",
+      "tags"       : "effective scala, twitter, and best practices",
+		  "url"        : "//swathimystery.github.io/oolong/articles/effective-scala-by-twitter/",
+		  "date"       : "2014-08-28 02:51:20 +0530",
+		  "shortdate"  : "August 28, 2014"
+		} ,
+	
+		{
+		  "title"      : "Scala Basics by Twitter",
+		  "category"   : "",
+      "tags"       : "scala, basics, twitter, and scala school",
+		  "url"        : "//swathimystery.github.io/oolong/articles/scala-basics-by-twitter/",
+		  "date"       : "2014-08-28 02:40:14 +0530",
+		  "shortdate"  : "August 28, 2014"
+		} ,
+	
+		{
 		  "title"      : "Programming Style and Your Brain",
 		  "category"   : "",
       "tags"       : "programming, brain, and codestyle",
