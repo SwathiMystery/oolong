@@ -4,7 +4,7 @@ title: "Linus Torvalds on Git"
 modified:
 categories: articles
 excerpt:
-tags: []
+tags: [git, Linus Torvalds]
 image:
   feature:
 date: 2014-08-28T01:16:21+05:30

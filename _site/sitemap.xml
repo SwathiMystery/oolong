@@ -3,6 +3,12 @@
   
   
   <url>
+    <loc>//swathimystery.github.io/oolong/articles/javascript-the-good-parts/</loc>
+    <lastmod>2014-08-28T02:00:18+05:30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>//swathimystery.github.io/oolong/articles/linus-torvalds-on-git/</loc>
     <lastmod>2014-08-28T01:16:21+05:30</lastmod>
     <priority>0.8</priority>
@@ -11,28 +17,28 @@
   
   <url>
     <loc>//swathimystery.github.io/oolong/</loc>
-    <lastmod>2014-08-28T01:51:57+05:30</lastmod>
+    <lastmod>2014-08-28T02:25:36+05:30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
     <loc>//swathimystery.github.io/oolong/about/</loc>
-    <lastmod>2014-08-28T01:51:57+05:30</lastmod>
+    <lastmod>2014-08-28T02:25:36+05:30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>//swathimystery.github.io/oolong/tags/</loc>
-    <lastmod>2014-08-28T01:51:57+05:30</lastmod>
+    <lastmod>2014-08-28T02:25:36+05:30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>//swathimystery.github.io/oolong/articles/</loc>
-    <lastmod>2014-08-28T01:51:57+05:30</lastmod>
+    <lastmod>2014-08-28T02:25:36+05:30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
