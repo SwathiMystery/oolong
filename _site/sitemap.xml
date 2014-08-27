@@ -5,28 +5,28 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2014-08-28T00:16:09+05:30</lastmod>
+    <lastmod>2014-08-28T00:23:20+05:30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
     <loc>/about/</loc>
-    <lastmod>2014-08-28T00:16:09+05:30</lastmod>
+    <lastmod>2014-08-28T00:23:20+05:30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2014-08-28T00:16:09+05:30</lastmod>
+    <lastmod>2014-08-28T00:23:20+05:30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>/articles/</loc>
-    <lastmod>2014-08-28T00:16:09+05:30</lastmod>
+    <lastmod>2014-08-28T00:23:20+05:30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
