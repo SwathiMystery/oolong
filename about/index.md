@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About oolong
+title: About Oolong Times
 excerpt: "Repository of all tech articles"
 modified: 2014-08-26
 ---

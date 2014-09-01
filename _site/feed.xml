@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-<title type="text">oolong</title>
+<title type="text">Oolong Times</title>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="//swathimystery.github.io/oolong/feed.xml" />
 <link rel="alternate" type="text/html" href="//swathimystery.github.io/oolong" />
-<updated>2014-08-28T03:01:51+05:30</updated>
+<updated>2014-09-01T23:40:57+05:30</updated>
 <id>//swathimystery.github.io/oolong/</id>
 <author>
   <name>Swathi Venkatachala</name>
@@ -30,7 +30,7 @@
 
 &lt;p&gt;Monads are trivially expressed in JavaScript, and are one of the key enablers of Ajax, with enormous power to manage complexity.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;//swathimystery.github.io/oolong/articles/monads-and-gonads-by-douglas-crockford/&quot;&gt;Monads and Gonads by Douglas Crockford&lt;/a&gt; was originally published by Swathi Venkatachala at &lt;a href=&quot;//swathimystery.github.io/oolong&quot;&gt;oolong&lt;/a&gt; on August 28, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;//swathimystery.github.io/oolong/articles/monads-and-gonads-by-douglas-crockford/&quot;&gt;Monads and Gonads by Douglas Crockford&lt;/a&gt; was originally published by Swathi Venkatachala at &lt;a href=&quot;//swathimystery.github.io/oolong&quot;&gt;Oolong Times&lt;/a&gt; on August 28, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -49,7 +49,7 @@
   </author>
   <content type="html">&lt;p&gt;&lt;a href=&quot;http://twitter.github.io/effectivescala&quot;&gt;Effective Scala&lt;/a&gt; Twitter’s “best practices” for Scala. Useful for understanding idioms in Twitter’s code.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;//swathimystery.github.io/oolong/articles/effective-scala-by-twitter/&quot;&gt;Effective Scala by Twitter&lt;/a&gt; was originally published by Swathi Venkatachala at &lt;a href=&quot;//swathimystery.github.io/oolong&quot;&gt;oolong&lt;/a&gt; on August 28, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;//swathimystery.github.io/oolong/articles/effective-scala-by-twitter/&quot;&gt;Effective Scala by Twitter&lt;/a&gt; was originally published by Swathi Venkatachala at &lt;a href=&quot;//swathimystery.github.io/oolong&quot;&gt;Oolong Times&lt;/a&gt; on August 28, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -68,7 +68,7 @@
   </author>
   <content type="html">&lt;p&gt;&lt;a href=&quot;http://twitter.github.io/scala_school/basics.html&quot;&gt;Scala School&lt;/a&gt; basics by Twitter - a series of lectures at Twitter to prepare experienced engineers to be productive Scala programmers.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;//swathimystery.github.io/oolong/articles/scala-basics-by-twitter/&quot;&gt;Scala Basics by Twitter&lt;/a&gt; was originally published by Swathi Venkatachala at &lt;a href=&quot;//swathimystery.github.io/oolong&quot;&gt;oolong&lt;/a&gt; on August 28, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;//swathimystery.github.io/oolong/articles/scala-basics-by-twitter/&quot;&gt;Scala Basics by Twitter&lt;/a&gt; was originally published by Swathi Venkatachala at &lt;a href=&quot;//swathimystery.github.io/oolong&quot;&gt;Oolong Times&lt;/a&gt; on August 28, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -89,7 +89,7 @@
 
 &lt;p&gt;Understanding human brain - head and gut systems. Doug explains using science to explain why code style is important in programming.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;//swathimystery.github.io/oolong/articles/programming-style-and-your-brain/&quot;&gt;Programming Style and Your Brain&lt;/a&gt; was originally published by Swathi Venkatachala at &lt;a href=&quot;//swathimystery.github.io/oolong&quot;&gt;oolong&lt;/a&gt; on August 28, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;//swathimystery.github.io/oolong/articles/programming-style-and-your-brain/&quot;&gt;Programming Style and Your Brain&lt;/a&gt; was originally published by Swathi Venkatachala at &lt;a href=&quot;//swathimystery.github.io/oolong&quot;&gt;Oolong Times&lt;/a&gt; on August 28, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -111,7 +111,7 @@
 &lt;p&gt;In JavaScript there is a beautiful, highly expressive language that is buried under a steaming pile of good intentions and blunders.
 Here, Doug talks about the good parts of the language. Quite an old video, but worth the watch!&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;//swathimystery.github.io/oolong/articles/javascript-the-good-parts/&quot;&gt;Javascript the Good Parts&lt;/a&gt; was originally published by Swathi Venkatachala at &lt;a href=&quot;//swathimystery.github.io/oolong&quot;&gt;oolong&lt;/a&gt; on August 28, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;//swathimystery.github.io/oolong/articles/javascript-the-good-parts/&quot;&gt;Javascript the Good Parts&lt;/a&gt; was originally published by Swathi Venkatachala at &lt;a href=&quot;//swathimystery.github.io/oolong&quot;&gt;Oolong Times&lt;/a&gt; on August 28, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -132,7 +132,7 @@ Here, Doug talks about the good parts of the language. Quite an old video, but w
 
 &lt;p&gt;Quite old talk by Linus Torvalds on git making comparison between CVS, SVN, Perforce and Mercurial.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;//swathimystery.github.io/oolong/articles/linus-torvalds-on-git/&quot;&gt;Linus Torvalds on Git&lt;/a&gt; was originally published by Swathi Venkatachala at &lt;a href=&quot;//swathimystery.github.io/oolong&quot;&gt;oolong&lt;/a&gt; on August 28, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;//swathimystery.github.io/oolong/articles/linus-torvalds-on-git/&quot;&gt;Linus Torvalds on Git&lt;/a&gt; was originally published by Swathi Venkatachala at &lt;a href=&quot;//swathimystery.github.io/oolong&quot;&gt;Oolong Times&lt;/a&gt; on August 28, 2014.&lt;/p&gt;</content>
 </entry>
 
 </feed>
