@@ -3,6 +3,12 @@
   
   
   <url>
+    <loc>//swathimystery.github.io/oolong/articles/introduction-to-algorithms-by-mit/</loc>
+    <lastmod>2014-10-01T01:34:22+05:30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>//swathimystery.github.io/oolong/articles/monads-and-gonads-by-douglas-crockford/</loc>
     <lastmod>2014-08-28T02:55:14+05:30</lastmod>
     <priority>0.8</priority>
@@ -41,28 +47,28 @@
   
   <url>
     <loc>//swathimystery.github.io/oolong/</loc>
-    <lastmod>2014-09-09T16:25:47+05:30</lastmod>
+    <lastmod>2014-10-01T01:40:49+05:30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
     <loc>//swathimystery.github.io/oolong/about/</loc>
-    <lastmod>2014-09-09T16:25:47+05:30</lastmod>
+    <lastmod>2014-10-01T01:40:49+05:30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>//swathimystery.github.io/oolong/tags/</loc>
-    <lastmod>2014-09-09T16:25:47+05:30</lastmod>
+    <lastmod>2014-10-01T01:40:49+05:30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>//swathimystery.github.io/oolong/articles/</loc>
-    <lastmod>2014-09-09T16:25:47+05:30</lastmod>
+    <lastmod>2014-10-01T01:40:49+05:30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>

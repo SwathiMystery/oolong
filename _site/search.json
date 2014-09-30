@@ -1,6 +1,15 @@
 [
 	
 		{
+		  "title"      : "Introduction to Algorithms by MIT",
+		  "category"   : "",
+      "tags"       : "algorithms, MIT, and Introduction",
+		  "url"        : "//swathimystery.github.io/oolong/articles/introduction-to-algorithms-by-mit/",
+		  "date"       : "2014-10-01 01:34:22 +0530",
+		  "shortdate"  : "October 01, 2014"
+		} ,
+	
+		{
 		  "title"      : "Monads and Gonads by Douglas Crockford",
 		  "category"   : "",
       "tags"       : "pattern, monads, gonads, haskell, javascript, and Douglas Crockford",
