@@ -1,6 +1,15 @@
 [
 	
 		{
+		  "title"      : "How to Start a Startup",
+		  "category"   : "",
+      "tags"       : "startup and entrepreneurship",
+		  "url"        : "//swathimystery.github.io/oolong/articles/how-to-start-a-startup/",
+		  "date"       : "2014-12-17 14:27:51 +0530",
+		  "shortdate"  : "December 17, 2014"
+		} ,
+	
+		{
 		  "title"      : "Introduction to Algorithms by MIT",
 		  "category"   : "",
       "tags"       : "algorithms, MIT, and Introduction",
