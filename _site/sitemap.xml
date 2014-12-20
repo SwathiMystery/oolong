@@ -3,6 +3,12 @@
   
   
   <url>
+    <loc>//swathimystery.github.io/oolong/articles/introduction-to-nosql-databases/</loc>
+    <lastmod>2014-12-20T18:51:02+05:30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>//swathimystery.github.io/oolong/articles/how-to-start-a-startup/</loc>
     <lastmod>2014-12-17T14:27:51+05:30</lastmod>
     <priority>0.8</priority>
@@ -53,28 +59,28 @@
   
   <url>
     <loc>//swathimystery.github.io/oolong/</loc>
-    <lastmod>2014-12-17T14:37:16+05:30</lastmod>
+    <lastmod>2014-12-20T18:54:00+05:30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
     <loc>//swathimystery.github.io/oolong/about/</loc>
-    <lastmod>2014-12-17T14:37:16+05:30</lastmod>
+    <lastmod>2014-12-20T18:54:00+05:30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>//swathimystery.github.io/oolong/tags/</loc>
-    <lastmod>2014-12-17T14:37:16+05:30</lastmod>
+    <lastmod>2014-12-20T18:54:00+05:30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>//swathimystery.github.io/oolong/articles/</loc>
-    <lastmod>2014-12-17T14:37:16+05:30</lastmod>
+    <lastmod>2014-12-20T18:54:00+05:30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
